@@ -1,6 +1,4 @@
 # inference-engineering
-
-This is my first inference engine project. I am still
 ---
 
 ## Why I built this
