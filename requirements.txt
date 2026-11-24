@@ -1,0 +1,4 @@
+torch
+safetensors
+transformers
+huggingface_hub

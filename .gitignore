@@ -1,0 +1,12 @@
+.venv/
+weights/
+.DS_Store
+__pycache__/
+weights-aya/
+
+# my learning materials: kept local, never pushed
+docs/
+videos/
+explorer/
+goal.md
+.claude/
